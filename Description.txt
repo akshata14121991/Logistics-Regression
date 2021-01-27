@@ -1,0 +1,6 @@
+The code attached is for Logistic Regression.
+The titanic.csv file contains data for 887 of the real Titanic passengers. Each row represents one person. 
+The columns describe different attributes about the person including whether they survived, 
+their age, their passenger-class, their sex and the fare they paid.
+The data is divided into training(0.7) and testing(0.3) sets. 
+Accuracy of the model built is 76.11 %
